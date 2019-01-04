@@ -1,0 +1,109 @@
+#header #logo img {
+  max-width: 180px;
+}
+
+.banner-content h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#landingbanner p{
+  font-size: 20px;
+  line-height: 27px
+}
+#landingbanner h2{
+  font-size: 36px;
+}
+#landingbanner h1{
+  font-size: 64px;
+}
+.single-widget{
+	text-align: center;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    padding: 25px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
+#stacked-bar path.line{
+  fill: none;
+  stroke:blue;
+  stroke-width:2px;
+}
+.nav-menu a{
+  font-size: 20px;
+}
+#particles-js{
+  position: absolute;
+  width: 100%;
+  height: 100%;  
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+#landingbanner{
+      background: #041431;
+    background: -moz-linear-gradient(top, #041431 0%, #082a64 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, #041431), color-stop(100%, #082a64));
+    background: -webkit-linear-gradient(top, #041431 0%, #082a64 100%);
+    background: -o-linear-gradient(top, #041431 0%, #082a64 100%);
+    background: -ms-linear-gradient(top, #041431 0%, #082a64 100%);
+    background: linear-gradient(to bottom, #041431 0%, #082a64 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#041431', endColorstr='#082a64', GradientType=0 );
+    padding: 150px 0;
+}
+
+.btns_list{
+  margin-top: -50px;
+  right: 0;
+}
+
+#best-container,#worst-container{
+  max-height: 250px;
+}
+
+.club-header-content{
+    padding: 50px 0px;
+    text-align: center;
+}
+
+.club-header-content a{
+      color: #fff;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+#gauge_widget{
+  display: flex;
+  align-items: center;
+}
+
+#score_container{
+  padding-left: 30px;
+}
+#score_container img{
+  width: 50px;
+  height: 50px;
+}
+
+#score_span{
+  display: block;
+}
+
+.tweets_text{
+  height: 20px;
+  line-height: 20px;
+  overflow: hidden;
+  margin-bottom: 5px;
+  font-weight: bold;
+  display: block;
+}
+
+.tweets_text span{
+  font-weight: normal;
+}
